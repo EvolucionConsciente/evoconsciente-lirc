@@ -1,0 +1,11 @@
+{
+  "name": "evoconsciente-lirc",
+  "version": "1.0.0",
+  "description": "Mi proyecto de Wix",
+  "scripts": {
+    "dev": "wix dev"
+  },
+  "dependencies": {
+    "@wix/cli": "^latest"
+  }
+}
